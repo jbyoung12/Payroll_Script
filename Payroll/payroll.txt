@@ -1,13 +1,19 @@
-Sushi Love
-2019-05-26
-driver 4 tips: $93.29
+Please enter starting date of emails in format 'day-Month Abbreviated to 3 characters-Year' (e.g. 11-Jun-2019).
+Please enter end date of emails in same format. Leave blank to read until now.
 
 Sushi Love
-2019-08-28
-driver 4 tips: $93.29
+2019-06-01
+driver 4 tips: $2.72
 
 Sushi Love
-2019-08-29
-driver 5 tips: $14.05
-driver 4 tips: $79.24
+2019-06-02
+driver 4 tips: $8.57
+
+Sushi Love
+2019-06-03
+driver 4 tips: $52.76
+
+Sushi Love
+2019-06-04
+driver 4 tips: $57.33
 
